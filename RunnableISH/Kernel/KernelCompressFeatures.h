@@ -25,3 +25,4 @@ public:
   //if there are a lottle bit optimizers, we can
  //send them with components signals with fer kron properties.
  //but to enable this features, it would be good to hide this to the cpu registers.
+//forbid at least 10 registrrs ro be a part of the kernel.
