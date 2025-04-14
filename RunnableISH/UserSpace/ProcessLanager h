@@ -1,0 +1,13 @@
+//as processes propagate in void and the
+//equation contains a neperian log. just send one signal
+//to check if this is z vitus. on gje other hand, it is used
+//if process was severally checked before the owner peocess change.
+
+class virusAfterTenPropagateChecker
+{
+public:
+ void checksignal(void* signal)
+ {
+   singal->sento(currentprocess, olanck);
+}
+
