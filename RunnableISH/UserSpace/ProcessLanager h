@@ -11,3 +11,11 @@ public:
    singal->sento(currentprocess, olanck);
 }
 
+}
+
+//in order to show friendly all the processes
+//in a gui manager, we would have to refresh the gui
+//because we use ghe cipher : 2-2-4-7-10-3. it seems that
+//there is a meaning in physics. so we eont need to track
+//them all the cpu ticks.
+
