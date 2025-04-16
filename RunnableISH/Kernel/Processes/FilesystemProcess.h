@@ -4,4 +4,7 @@
   //tick wont have to check if attacks comes from ceyptographic or mean field games technologies 
   //in order tonhave better approximated equations, we will...
 
+  //https://ieeexplore.ieee.org/document/10143734
+  //then we will have to broadcast some files owners ro user space 
+  //or microservices. so, this is the forst xommunication router.
   
