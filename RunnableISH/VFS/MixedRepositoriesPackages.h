@@ -15,5 +15,9 @@ class  //this would be good if a cyber attack is kot bzsed on meqn field game
 
 class HDFindAfressMechanicsAlgorithmsCeypted
 {
-
+public:
+  //as there is no heat transfer methods to get a treshild,
+  //we will only check hash of the datas of processes.
+ //after that, we wont need an emulator too.
+  //this means device proxesses can hold equations 
 }
