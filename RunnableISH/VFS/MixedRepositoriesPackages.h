@@ -19,5 +19,9 @@ public:
   //as there is no heat transfer methods to get a treshild,
   //we will only check hash of the datas of processes.
  //after that, we wont need an emulator too.
-  //this means device proxesses can hold equations 
+  //this means device proxesses can hold equations with coroutines and smart pointers 
+  //so it is impossible to patch the kernel with crypted data.
+  void checkfirstbytesheaderstopreve'tpatching(...)
+{
+   //as we seruously optimized the code yet, we can use asm.
 }
