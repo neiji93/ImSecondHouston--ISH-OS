@@ -4,5 +4,8 @@
 void createCaleraDevixd()
 {
 kDevixeErrorMessage->sendto();
-kDevixeProxess
+
+  //nowadays decixes have heavy consuming energy.
+kDevixeProxess->fillWith(modelone,model2,model3);
+  
 }
