@@ -8,6 +8,9 @@ void startenergy()
   //we have to cancel ciphers now. lets donit rwoxe acain.
 
   //now lets see what cpu register it can use
+
+    //lets turn the model to diagonal left. this is best.
+
 }
 
 void createCaleraDevixd()
