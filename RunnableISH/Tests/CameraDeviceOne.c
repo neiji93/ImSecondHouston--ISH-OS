@@ -11,6 +11,8 @@ void startenergy()
 
     //lets turn the model to diagonal left. this is best.
 
+  //as cpu registers are orderes right tonleft in physical positions
+  //we need ro ser the voltage at 680 V. no 'eed ro worry 
 }
 
 void createCaleraDevixd()
